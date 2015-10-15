@@ -183,6 +183,12 @@ footer {
   bottom:50px;
 }
 
+img.profile
+{
+  width: 200px;
+  margin-bottom:30px;
+}
+
 img.company
 {
   width: 40px;
