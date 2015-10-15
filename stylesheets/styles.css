@@ -2,8 +2,7 @@
 
 body {
   padding:50px;
-  font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#777;
+  font:15px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight:300;
 }
 
@@ -261,7 +260,6 @@ img.company
   body {
     padding:0.4in;
     font-size:10pt;
-    color:#444;
   }
   section {
     width: 600px;
