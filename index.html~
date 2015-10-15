@@ -1,0 +1,113 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Hesham Attia</title>
+
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/github-light.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <img src="https://scontent.fsnc1-1.fna.fbcdn.net/hprofile-xfp1/t31.0-1/11791917_10156007082120389_66217655366888221_o.jpg" style="width: 200px;margin-bottom:30px;">
+
+        <h1>Hesham Attia</h1>
+        <p>
+<a href="heshamaliattia@gmail.com" target="_blank">heshamaliattia@gmail.com</a>
+<a href="http://www.linkedin.com/in/heshamali" target="_blank">http://www.linkedin.com/in/heshamali</a>
+</p>
+        <p>(650) 772-1260<br/>
+        Cupertino, CA</p>
+      </header>
+      <section>
+<h1>
+<a id="experience" class="anchor" href="#experience" aria-hidden="true"><span class="octicon octicon-link"></span></a>Experience</h1>
+
+<img src="https://media.licdn.com/media/AAEAAQAAAAAAAAbNAAAAJGI5OTRmZGI2LTVmNDEtNGIwOC1iMTg5LWRjYmE5MmQ2ZTk3Zg.png" align="right" class="company-img">
+<h2>
+<a id="twitter-san-francisco-ca" class="anchor" href="#twitter-san-francisco-ca" aria-hidden="true"><span class="octicon octicon-link"></span></a><a href="http://twitter.com" target="_blank">Twitter</a> (San Francisco, CA)</h2>
+
+<h3>
+<a id="software-engineer-ii-july-2015---oct-2015" class="anchor" href="#software-engineer-ii-july-2015---oct-2015" aria-hidden="true"><span class="octicon octicon-link"></span></a>Software Engineer II, July 2015 - Oct 2015</h3>
+
+<h4>
+<a id="technologies-scala-javascript-flightjs-mustache" class="anchor" href="#technologies-scala-javascript-flightjs-mustache" aria-hidden="true"><span class="octicon octicon-link"></span></a>Technologies: Scala, Javascript, Flight.js, Mustache</h4>
+
+<ul>
+<li>Developed front-end features on web for ads and shopping on <a href="http://twitter.com">twitter.com</a>
+</li>
+</ul>
+
+<img src="https://media.licdn.com/media/p/6/000/229/2c7/085956f.png" align="right" class="company-img">
+<h2>
+<a id="a-thinking-ape-vancouver-canada" class="anchor" href="#a-thinking-ape-vancouver-canada" aria-hidden="true"><span class="octicon octicon-link"></span></a><a href="http://www.athinkingape.com/" target="_blank">A Thinking Ape</a> (Vancouver, Canada)</h2>
+
+<h3>
+<a id="software-engineer-oct-2013---july-2015" class="anchor" href="#software-engineer-oct-2013---july-2015" aria-hidden="true"><span class="octicon octicon-link"></span></a>Software Engineer, Oct 2013 - July 2015</h3>
+
+<h4>
+<a id="technologies-django-python-redis-ios-objective-c-android-java-unity-c" class="anchor" href="#technologies-django-python-redis-ios-objective-c-android-java-unity-c" aria-hidden="true"><span class="octicon octicon-link"></span></a>Technologies: Django, Python, Redis, iOS (Objective C), Android (Java), Unity (C#)</h4>
+
+<ul>
+<li>Development of the backend engine powering <a href="https://itunes.apple.com/us/app/pineapple!/id906193660" target="_blank">Pineapple Poker</a> game, which includes a game logic engine, an RNG certified deck shuffling engine, a data encoding and storage system, and AI bots.</li>
+<li>Development of backend APIs supporting multiple games with efficiency and concurrency challenges.</li>
+<li>Development of front-end features for multiple games including <a href="https://play.google.com/store/apps/details?id=itembox.crayfish.x&amp;hl=en" target="_blank">Casino X</a> and <a href="https://play.google.com/store/apps/details?id=ata.squid.kaw&amp;hl=en" target="_blank">Kingdoms at War</a>, on multiple platforms.</li>
+</ul>
+
+<img src="https://media.licdn.com/media/AAEAAQAAAAAAAAL9AAAAJGJlNTIyMzk0LWI3MzctNDZjYi1iNjRhLTM2NjY2M2ZkMjQzNg.png" align="right" class="company-img">
+<h2>
+<a id="poet-egypt-alexandria-egypt" class="anchor" href="#poet-egypt-alexandria-egypt" aria-hidden="true"><span class="octicon octicon-link"></span></a><a href="http://www.poet.de/en" target="_blank">POET Egypt</a> (Alexandria, Egypt)</h2>
+
+<h3>
+<a id="software-engineer-jul-2012---mar-2013" class="anchor" href="#software-engineer-jul-2012---mar-2013" aria-hidden="true"><span class="octicon octicon-link"></span></a>Software Engineer, Jul 2012 - Mar 2013</h3>
+
+<h4>
+<a id="technologies-ibm-websphere-commerce-j2ee-jsp-jstl-struts-html-javascript-ajax-jquery" class="anchor" href="#technologies-ibm-websphere-commerce-j2ee-jsp-jstl-struts-html-javascript-ajax-jquery" aria-hidden="true"><span class="octicon octicon-link"></span></a>Technologies: IBM WebSphere Commerce, J2EE, JSP, JSTL, Struts, HTML, Javascript, Ajax, JQuery</h4>
+
+<ul>
+<li>Development of online shops for major German retailers under IBM WebSphere Commerce.</li>
+<li>Integration with external shipping and payment providers using SOAP and REST APIs.</li>
+<li>Development of front-end product catalogs using various technologies.</li>
+</ul>
+
+<hr>
+
+<h1>
+<a id="education" class="anchor" href="#education" aria-hidden="true"><span class="octicon octicon-link"></span></a>Education</h1>
+
+<h2>
+<a id="arab-academy-for-science-technology-and-maritime-transport" class="anchor" href="#arab-academy-for-science-technology-and-maritime-transport" aria-hidden="true"><span class="octicon octicon-link"></span></a><a href="http://www.aast.edu/en/" target="_blank">Arab Academy for Science and Technology</a>
+</h2>
+
+<h3>
+<a id="bachelor-of-science-computer-engineering-sep-2006---jul-2011" class="anchor" href="#bachelor-of-science-computer-engineering-sep-2006---jul-2011" aria-hidden="true"><span class="octicon octicon-link"></span></a>Bachelor of Science, Computer Engineering, Sep 2006 - Jul 2011</h3>
+
+<p>GPA: 3.5/4.0</p>
+
+<hr>
+
+<h1>
+<a id="honors-and-awards" class="anchor" href="#honors-and-awards" aria-hidden="true"><span class="octicon octicon-link"></span></a>Honors and Awards</h1>
+
+<ul>
+<li>
+<strong>1st Place</strong>, Google+ API Hackathon - Egypt 2012</li>
+<li>
+<strong>8th Place</strong>, 12th ACM Arab Regional Contest - Lebanon 2010</li>
+<li>
+<strong>Honorable Mention</strong>, ACM World Finals - Sweden 2009</li>
+<li>
+<strong>1st Place</strong>, 11th ACM Arab Regional contest - Egypt 2008</li>
+</ul>
+      </section>
+    </div>
+    <script src="javascripts/scale.fix.js"></script>
+    
+  </body>
+</html>
