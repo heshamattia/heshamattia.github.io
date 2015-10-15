@@ -34,7 +34,7 @@ Experience
 
 Education
 =========
-## [Arab Academy for Science, Technology and Maritime Transport](http://www.aast.edu/en/)
+## [Arab Academy for Science and Technology](http://www.aast.edu/en/)
 ### Bachelor of Science, Computer Engineering, Sep 2006 - Jul 2011
 GPA: 3.5/4.0
 
